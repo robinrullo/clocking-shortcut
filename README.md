@@ -5,7 +5,7 @@
 
 ## Automation:
 
-![](./steps.png)
+![](./workflow.png)
 
 ## Installation:
 
